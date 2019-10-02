@@ -1,0 +1,21 @@
+site_name: Agustín Benassi
+site_url: http://abenassi.github.io
+site_description: Some things about me.
+site_author: Agustín Benassi
+repo_url: https://github.com/abenassi/abenassi.github.io/
+
+nav:
+  - CV: index.md
+
+theme:
+    name: cinder
+
+markdown_extensions: [fenced_code, codehilite, admonition]
+
+extra_css:
+  - extra.css
+
+docs_dir: src
+site_dir: site
+
+google_analytics: ['UA-101681828-9', "https://abenassi.github.io/"]
