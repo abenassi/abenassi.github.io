@@ -8,12 +8,12 @@ nav:
   - CV: index.md
 
 theme:
-    name: cinder
+    name: abenassi_docs
 
 markdown_extensions: [fenced_code, codehilite, admonition]
 
 extra_css:
-  - extra.css
+  - css/extra.css
 
 docs_dir: src
 site_dir: site
