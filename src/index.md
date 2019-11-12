@@ -193,7 +193,11 @@ from Excel files".</h6>
     <h6>The strongest</h6>
 </div>
 
-`​Contracts Management - Data Design / Architecture - Product Management - Business Analysis - Team Leadership - Agile Development - User Centered Design - Python - Jupyter Notebooks`
+`​Contracts Management - Data Design / Architecture - Product Management`
+<br>
+`Business Analysis - Team Leadership - Agile Development`
+<br>
+`User Centered Design - Python - Jupyter Notebooks`
 <br>
 <br>
 <br>
@@ -201,6 +205,8 @@ from Excel files".</h6>
     <h6>The rest</h6>
 </div>
 
-`JavaScript - HTML - CSS - SQL - PostGIS - Git - Github - PEGs - Travis CI - Coveralls`
+`JavaScript - HTML - CSS - SQL - PostGIS - Git - Github` 
+<br>
+`PEGs - Travis CI - Coveralls`
 <br>
 <br>
