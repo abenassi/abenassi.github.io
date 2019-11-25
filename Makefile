@@ -10,3 +10,4 @@ build:
 
 pdf:
 	mkdocs_abenassi md2pdf src/index.md pdf/cv-agustin-benassi.pdf
+	mkdocs_abenassi md2pdf src/index_ds.md pdf/ds/cv-agustin-benassi.pdf
