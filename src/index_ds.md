@@ -41,7 +41,7 @@ ul li::before {
 
 ## About me
 <br>
-Economist from Buenos Aires University and self taught programmer, currently working as Public Data Director at the Secretariat of Modernisation, part of the Argentina's Cabinet Office.
+Economist from Buenos Aires University and self taught Python Developer with 6 years of experience in the language. Currently working as Public Data Director at the Secretariat of Modernisation, part of the Argentina's Cabinet Office.
 
 I have experience designing and building tools and data infrastructure for data scientists.
 
@@ -50,6 +50,30 @@ In my daily work I design and enforce data standards, develop products and solut
 ## Contact information
 <br>
 [​agusbenassi@gmail.com](mailto:​agusbenassi@gmail.com) | [twitter](https://twitter.com/agustinbenassi)| [github](https://github.com/abenassi) ​| [medium](https://medium.com/@agustinbenassi) ​| [linkedin](https://www.linkedin.com/in/agustinbenassi) ​
+
+## Skills
+<br>
+<br>
+<div class="cargo skills">
+    <h6>The strongest</h6>
+</div>
+
+`Python - Jupyter Notebooks - Data Science - Agile Development`
+<br>
+`Data Design / Architecture - Product Management - User Centered Design`
+<br>
+<br>
+<br>
+<br>
+<div class="cargo">
+    <h6>The rest</h6>
+</div>
+
+`JavaScript - HTML - CSS - PostgresSQL - SQL - PostGIS - Git - Github`
+<br>
+`PEGs - Travis CI - Coveralls`
+<br>
+<br>
 
 ## Experience
 
@@ -61,11 +85,9 @@ In my daily work I design and enforce data standards, develop products and solut
     <h6>Technology for Public Policy Adviser (Jan 2016 – Dec 2017)</h6>
 </div>
 
-I coordinate the design and implementation of the Open Data Policy at the national level, build an open data infrastructure and assist different government units in improving their data management capabilities.
+I coordinate the design and implementation of the Open Data Policy at the national level and lead the technical development of the open data infrastructure, including different data based solutions and particular projects with our government partners. I also assist different government units in improving their data management capabilities.
 
 I currently manage an in-house team of data analysts, designers, system administrators and product managers together with a contracted team of font-end, back-end and QA developers.
-
-I also design and manage the implementation of data based technological solutions for particular projects with our government partners.
 <br>
 <br>
 
@@ -189,26 +211,3 @@ from Excel files".</h6>
     <h6>2 day workshop on PO topics and techniques.</h6>
 </div>
 
-## Skills
-<br>
-<br>
-<div class="cargo skills">
-    <h6>The strongest</h6>
-</div>
-
-`Python - Jupyter Notebooks - Data Science - Agile Development`
-<br>
-`Data Design / Architecture - Product Management - User Centered Design`
-<br>
-<br>
-<br>
-<br>
-<div class="cargo">
-    <h6>The rest</h6>
-</div>
-
-`JavaScript - HTML - CSS - PostgresSQL - SQL - PostGIS - Git - Github`
-<br>
-`PEGs - Travis CI - Coveralls`
-<br>
-<br>
